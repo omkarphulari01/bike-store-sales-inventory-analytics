@@ -80,18 +80,17 @@ Documentation/
 
 ## Screenshots
 
-### Sales Dashboard
+## Sales Dashboard
 
-![Sales Dashboard](Images/Sales_Dashboard.png)
+![Sales Dashboard](Sales_Dashboard.png)
 
-### Inventory Dashboard
+## Inventory Dashboard
 
-![Inventory Dashboard](Images/Inventory_Dashboard.png)
+![Inventory Dashboard](Inventory_Dashboard.png)
 
-### Customer & Staff Dashboard
+## Customer & Staff Dashboard
 
-![Customer Dashboard](Images/Customer_Staff_Dashboard.png)
-
+![Customer & Staff Dashboard](Customer_Staff_Dashboard.png)
 ---
 
 ## Author
